@@ -35,7 +35,7 @@ Critical warnings – internet disconnection, low RAM, near‑full disks, CPU/GP
 
 The script tries to elevate privileges (sudo/administrator) at startup – this gives you full process names for listening ports and disk temperatures. If elevation fails, it still runs, but those two sections will show less detail.
 
-Why I made this
+Why I made this? 
 I wanted a single dashboard I could leave running in a terminal tab while I work – something that updates itself and catches my eye when something goes wrong (like a disk filling up or the CPU pegging 100%). I started with a few lines to show RAM and CPU, and it grew into this.
 
 You’ll need
