@@ -4,7 +4,7 @@ This is a single‑file Python script that keeps an eye on your computer’s har
 
 It runs on Linux (CachyOS, any distro), macOS, Windows 10/11 PowerShell, and Android (via Termux).
 
-What it does
+What it does:
 CPU – per‑core utilisation, temperature, clock speed, and a simple load bar.
 
 Memory – total, used, free, available, and a warning if it gets low.
