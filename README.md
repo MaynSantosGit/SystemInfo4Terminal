@@ -40,7 +40,7 @@ I wanted a single dashboard I could leave running in a terminal tab while I work
 
 You’ll need
 * Python 3.6+
-* psutil – install it with pip install psutil
+* psutil – install it for your chosen OS.
 * smartmontools (optional) – for disk temperatures. On Linux/macOS you probably already have it; on Windows you can grab it from smartmontools.org.
 
 How to run
