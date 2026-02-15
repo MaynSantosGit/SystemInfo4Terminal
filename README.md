@@ -59,6 +59,5 @@ Notes:
 License:
 Do whatever you want with it. If you fix something, consider sharing it back. I consider this as a public domain python script.
 
-Questions or ideas? Open an issue or ping me at mayn@outlook.ph.
 
 
