@@ -56,26 +56,7 @@ Notes:
 * On Termux (Android), some features like smartctl won’t work, but CPU/memory/network still do.
 * Public IP lookups use api.ipify.org and fallbacks; they’re cached for 45 seconds, so you won’t get rate‑limited.
 
-Example output (just a snippet)
-┌────────────────────────────────────────────────────────────┐
-│                     SYSTEM INFORMATION                      │
-├────────────────────────────────────────────────────────────┤
-│ Component     Details                                       │
-├───────────────┬────────────────────────────────────────────┤
-│ OS            │ Arch Linux                                  │
-│ Kernel        │ 6.14.0-arch1-1                              │
-│ Uptime        │ 3 days, 2 hours, 14 minutes, 7 seconds     │
-│ CPU           │ AMD Ryzen 7 5800X 8-Core Processor          │
-│ GPU           │ NVIDIA GeForce RTX 3070                     │
-│ System        │ Micro-Star International Co., Ltd. MS-7C35  │
-│ NPU           │ Not detected                                 │
-│ Cache         │ L1: 512K, L2: 4M, L3: 32M                   │
-│ Total Cache   │ 36500 KB                                     │
-│ Audio         │ Starship/Matisse HD Audio Controller        │
-│ Monitor       │ DELL U2720Q 3840x2160 @60Hz                 │
-└───────────────┴──────────────────────────────────────────────┘
-
-Licence
+License:
 Do whatever you want with it. If you fix something, consider sharing it back. I consider this as a public domain python script.
 
 Questions or ideas? Open an issue or ping me at mayn@outlook.ph.
