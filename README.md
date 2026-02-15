@@ -1,6 +1,6 @@
 systeminfo.py – Real‑time system monitor for your terminal
 
-This is a single‑file Python script that keeps an eye on your computer’s hardware and software – CPU, memory, disks, network, battery, browsers, listening ports, and more. It refreshes every 45 seconds and prints everything in neatly centred tables with baby‑pink borders and rainbow‑coloured text.
+This is a single‑file Python script that keeps an eye on your computer’s hardware and software: CPU, memory, disks, network, battery, browsers, listening ports, and more. It refreshes every 45 seconds and prints everything in neatly centred tables with baby‑pink borders and rainbow‑coloured text.
 
 It runs on Linux (CachyOS, any distro), macOS, Windows 10/11 PowerShell, and Android (via Termux).
 
