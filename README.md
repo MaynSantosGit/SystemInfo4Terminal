@@ -43,13 +43,12 @@ You’ll need
 * psutil – install it for your chosen OS.
 * smartmontools (optional) – for disk temperatures. On Linux/macOS you probably already have it; on Windows you can grab it from smartmontools.org.
 
-How to run
-Open Terminal, type:
-python3 SystemInfo.py
-
-Hit Ctrl+C to stop it.
-
-If you want to see full process names for listening ports or get disk temperatures, let the script request admin rights (it’ll prompt you).
+How to run:
+1. Open Terminal
+2. type:
+   python3 SystemInfo.py
+3.Hit Ctrl+C to stop it.
+4. If you want to see full process names for listening ports or get disk temperatures, let the script request admin rights (it’ll prompt you).
 
 Notes:
 * The tables automatically centre themselves to your terminal width.
@@ -77,7 +76,7 @@ Example output (just a snippet)
 └───────────────┴──────────────────────────────────────────────┘
 
 Licence
-Do whatever you want with it. If you fix something, consider sharing it back. I consider this as a public domain.
+Do whatever you want with it. If you fix something, consider sharing it back. I consider this as a public domain python script.
 
 Questions or ideas? Open an issue or ping me at mayn@outlook.ph.
 
